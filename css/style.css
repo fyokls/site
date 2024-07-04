@@ -1,0 +1,22 @@
+
+body {   
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(22, 131, 153) 49%, rgb(137, 137, 165) 87%);background-color: black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    letter-spacing: 2cm;
+}
+ul, ol {
+    list-style-position: inside;
+}
+a {
+    color:lightblue;
+}
+a:visited{
+    color:rgb(229, 91, 229);
+}
+.perviy {
+    box-shadow: 3px 3px red, -1em 0 .4em olive; 
+}
